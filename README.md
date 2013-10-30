@@ -21,7 +21,7 @@ Two reasons:
 2. I wanted to use the IJulia notebook, which is incompatible with the PLEAC file format.
 
 
-### View the notebooks using nbviewer:
+#### View the notebooks using nbviewer:
 The Julia examples below are principally translations from the [Python version](http://pleac.sourceforge.net/pleac_python)
 The examples are not complete. Missing items are generally noted in comments.
 

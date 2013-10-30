@@ -6,7 +6,7 @@ PLEAC examples are drawn from the "Perl Cookbook" (by Tom Christiansen & Nathan 
 They provide a nice range of examples oriented toward data munging, 
 the type of work I tend to want to do first when learning a new language.
 
-WARNING: I am new to Julia, and working through these examples as a learning exercise.  
+*WARNING:* I am new to Julia, and working through these examples as a learning exercise.  
 The code in these workbooks likely does not represent best practice -- 
 and your suggestions for improving the solutions are most welcome.
 

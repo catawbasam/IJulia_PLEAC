@@ -17,7 +17,7 @@ Two reasons:
 1. The PLEAC project appears to have been dormant since early 2011.
 2. I wanted to use the IJulia notebook, which is incompatible with the PLEAC file format.
 
-The Julia examples below are principally translations from the Python version at http://pleac.sourceforge.net/pleac_python/strings.html
+The Julia examples below are principally translations from the [Python version](http://pleac.sourceforge.net/pleac_python)
 
 The examples are not complete. Missing items are generally noted in comments.
 

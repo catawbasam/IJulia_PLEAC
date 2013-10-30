@@ -21,5 +21,7 @@ The Julia examples below are principally translations from the Python version at
 
 The examples are not complete. Missing items are generally noted in comments.
 
-1. [PLEAC Strings](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/blob/master/pleac_string.ipynb)
+### View the notebooks using nbviewer:
+
+1. [PLEAC Strings](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/pleac_string.ipynb)
 

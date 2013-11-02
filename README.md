@@ -27,4 +27,4 @@ The examples are not complete. Missing items are generally noted in comments.
 
 1. [PLEAC Strings](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/pleac_string.ipynb)
 
-2  [PLEAC Numbers](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/2_pleac_numbers.ipynb)
+2. [PLEAC Numbers](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/2_pleac_numbers.ipynb)

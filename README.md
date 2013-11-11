@@ -12,7 +12,7 @@ The code in these workbooks likely does not represent best practice --
 and your suggestions for improving the solutions are most welcome.
 
 
-####Why didn't you contribute to the main PLEAC repo?
+####"Why didn't you contribute to the main PLEAC repo?"
 The main PLEAC site contains solutions in many languages, so why not add Julia solutions there?
 
 Two reasons:  

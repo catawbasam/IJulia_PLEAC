@@ -29,6 +29,6 @@ The examples are not complete. Missing items are generally noted in comments.
 
 2. [PLEAC Numbers](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/2_pleac_numbers.ipynb)
 
-3. [PLEAC Dates and Times (needs cleanup)](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/3_pleac_datetime.ipynb)
+3. [PLEAC Dates and Times](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/3_pleac_datetime.ipynb)
 
 4. [PLEAC Arrays (in progress)](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/4_pleac_arrays.ipynb)

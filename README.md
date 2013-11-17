@@ -37,9 +37,9 @@ The examples are not complete. Missing items are generally noted in comments.
 
 TODO:
 
-8. PLEAC File Contents
+ PLEAC File Contents
 
-9. PLEAC Directoryies
+ PLEAC Directoryies
 
 
 _* Dates and Times currently uses a mix of Base, Datetime.jl, and Calendar.jl. 

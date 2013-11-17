@@ -39,7 +39,7 @@ TODO:
 
  PLEAC File Contents
 
- PLEAC Directoryies
+ PLEAC Directories
 
 
 _* Dates and Times currently uses a mix of Base, Datetime.jl, and Calendar.jl. 

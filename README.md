@@ -25,7 +25,7 @@ Two reasons:
 The Julia examples below are principally translations from the [Python version](http://pleac.sourceforge.net/pleac_python).
 The examples are not complete. Missing items are generally noted in comments.
 
-1. [PLEAC Strings](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/1_pleac_string.ipynb)
+1. [PLEAC Strings](1_pleac_string.ipynb)
 
 2. [PLEAC Numbers](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/2_pleac_numbers.ipynb)
 

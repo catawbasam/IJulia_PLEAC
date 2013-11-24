@@ -15,10 +15,9 @@ and your suggestions for improving the solutions are most welcome.
 ####"Why didn't you contribute to the main PLEAC repo?"
 The main PLEAC site contains solutions in many languages, so why not add Julia solutions there?
 
-Two reasons:  
 
-1. The PLEAC project appears to have been dormant since early 2011.
-2. I wanted to use the IJulia notebook, which is incompatible with the PLEAC file format.
+  I wanted to use the IJulia notebook, which seemed incompatible with the PLEAC file format. 
+  However I have contacted the PLEAC mailing list about moving these examples to the main repo.
 
 
 #### View the notebooks using nbviewer:

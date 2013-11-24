@@ -1,7 +1,7 @@
 IJulia_PLEAC
 ============
 
-IJulia version of [PLEAC - Programming Language Examples Alike Cookbook] (http://pleac.sourceforge.net/).
+IJulia version of [PLEAC - Programming Language Examples Alike Cookbook] (http://pleac.sourceforge.net/), created by Guillaume Cottenceau et al.
 PLEAC examples were drawn, with the permission of the publisher, from the "Perl Cookbook" (by Tom Christiansen & Nathan Torkington, published by O'Reilly.
 They provide a nice range of examples oriented toward data munging, 
 the type of work I tend to want to do first when learning a new language.

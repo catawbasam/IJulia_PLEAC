@@ -26,7 +26,7 @@ The examples are not complete. Missing items are generally noted in comments.
 
 2. [PLEAC Numbers](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/2_pleac_numbers.ipynb)
 
-3. [PLEAC Dates and Times*](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/3_pleac_datetime-calendar.ipynb)
+3. [PLEAC Dates and Times](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/3_pleac_datetime-calendar.ipynb)
 
 4. [PLEAC Arrays](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/4_pleac_arrays.ipynb)
 
@@ -39,5 +39,3 @@ TODO:
  PLEAC Directories
 
 
-_* Dates and Times currently uses a mix of Base, Datetime.jl, and Calendar.jl. 
- When time permits I hope to build separate Datetime.jl and Calendar.jl versions._

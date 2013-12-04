@@ -14,7 +14,7 @@ and your suggestions for improving the solutions are most welcome.
 
 ####"Why didn't you contribute to the main PLEAC repo?"
 
-  I wanted to use the IJulia notebook, which seemed incompatible with the PLEAC file format. 
+  This project uses the IJulia notebook, which appears to be incompatible with the PLEAC file format. 
   However I have contacted the PLEAC mailing list about moving these examples to the main repo.
 
 
@@ -26,7 +26,7 @@ The examples are not complete. Missing items are generally noted in comments.
 
 2. [PLEAC Numbers](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/2_pleac_numbers.ipynb)
 
-3. [PLEAC Dates and Times*](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/3_pleac_datetime.ipynb)
+3. [PLEAC Dates and Times*](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/3_pleac_datetime-calendar.ipynb)
 
 4. [PLEAC Arrays](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/4_pleac_arrays.ipynb)
 

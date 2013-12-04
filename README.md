@@ -1,8 +1,8 @@
 IJulia_PLEAC
 ============
 
-IJulia version of [PLEAC - Programming Language Examples Alike Cookbook] (http://pleac.sourceforge.net/).
-PLEAC examples are drawn from the "Perl Cookbook" (by Tom Christiansen & Nathan Torkington, published by O'Reilly.
+IJulia version of [PLEAC - Programming Language Examples Alike Cookbook] (http://pleac.sourceforge.net/), created by Guillaume Cottenceau et al.
+PLEAC examples were drawn, with the permission of the publisher, from the "Perl Cookbook" (by Tom Christiansen & Nathan Torkington, published by O'Reilly.
 They provide a nice range of examples oriented toward data munging, 
 the type of work I tend to want to do first when learning a new language.
 
@@ -13,12 +13,9 @@ and your suggestions for improving the solutions are most welcome.
 
 
 ####"Why didn't you contribute to the main PLEAC repo?"
-The main PLEAC site contains solutions in many languages, so why not add Julia solutions there?
 
-Two reasons:  
-
-1. The PLEAC project appears to have been dormant since early 2011.
-2. I wanted to use the IJulia notebook, which is incompatible with the PLEAC file format.
+  I wanted to use the IJulia notebook, which seemed incompatible with the PLEAC file format. 
+  However I have contacted the PLEAC mailing list about moving these examples to the main repo.
 
 
 #### View the notebooks using nbviewer:
@@ -34,6 +31,13 @@ The examples are not complete. Missing items are generally noted in comments.
 4. [PLEAC Arrays](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/4_pleac_arrays.ipynb)
 
 5. [PLEAC Hashes/Dictionaries](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/5_pleac_dictionaries.ipynb)
+
+TODO:
+
+ PLEAC File Contents
+
+ PLEAC Directories
+
 
 _* Dates and Times currently uses a mix of Base, Datetime.jl, and Calendar.jl. 
  When time permits I hope to build separate Datetime.jl and Calendar.jl versions._

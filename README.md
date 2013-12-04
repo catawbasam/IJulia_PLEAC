@@ -12,7 +12,7 @@ The code in these workbooks likely does not represent best practice --
 and your suggestions for improving the solutions are most welcome.
 
 
-####"Why didn't you contribute to the main PLEAC repo?"
+####Why isn't this project in the main PLEAC repo?
 
   This project uses the IJulia notebook, which appears to be incompatible with the PLEAC file format. 
   However I have contacted the PLEAC mailing list about moving these examples to the main repo.

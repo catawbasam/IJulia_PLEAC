@@ -32,7 +32,7 @@ The examples are not complete. Missing items are generally noted in comments.
 
 5. [PLEAC Hashes/Dictionaries](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/5_pleac_dictionaries.ipynb)
 
-8. [PLEAC File Contents]ies](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/8_PLEAC_File_Contents.ipynb) *in progress*
+8. [PLEAC File Contents](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/8_PLEAC_File_Contents.ipynb) *in progress*
 TODO:
 
  PLEAC File Contents

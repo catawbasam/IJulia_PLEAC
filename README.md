@@ -22,17 +22,19 @@ and your suggestions for improving the solutions are most welcome.
 The Julia examples below are principally translations from the [Python version](http://pleac.sourceforge.net/pleac_python).
 The examples are not complete. Missing items are generally noted in comments.
 
-1. [PLEAC Strings](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/1_pleac_string.ipynb)
+*  [PLEAC 1 Strings](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/1_pleac_string.ipynb)
 
-2. [PLEAC Numbers](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/2_pleac_numbers.ipynb)
+*  [PLEAC 2 Numbers](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/2_pleac_numbers.ipynb)
 
-3. [PLEAC Dates and Times](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/3_pleac_datetime-calendar.ipynb)
+*  [PLEAC 3 Dates and Times](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/3_pleac_datetime-calendar.ipynb)
 
-4. [PLEAC Arrays](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/4_pleac_arrays.ipynb)
+*  [PLEAC 4 Arrays](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/4_pleac_arrays.ipynb)
 
-5. [PLEAC Hashes/Dictionaries](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/5_pleac_dictionaries.ipynb)
+*  [PLEAC 5 Hashes/Dictionaries](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/5_pleac_dictionaries.ipynb)
 
-8. [PLEAC File Contents](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/8_PLEAC_File_Contents.ipynb) 
+*  [PLEAC 8 File Contents](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/8_PLEAC_File_Contents.ipynb) 
+
+*  [PLEAC 9 Directories](http://nbviewer.ipython.org/urls/raw.github.com/catawbasam/IJulia_PLEAC/master/9_pleac_directories.ipynb)
 
 
 TODO:

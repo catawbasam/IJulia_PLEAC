@@ -6,10 +6,9 @@ PLEAC examples were drawn, with the permission of the publisher, from the "Perl 
 They provide a nice range of examples oriented toward data munging, 
 the type of work I tend to want to do first when learning a new language.
 
-####A Caution
-I am new to Julia, and working through these examples as a learning exercise.  
-The code in these workbooks likely does not represent best practice -- 
-and your suggestions for improving the solutions are most welcome.
+#### Cautions
+This code was written as a learning exercise.  
+It likely does not represent best practice.  It was also written for Julia 0.2.
 
 
 ####Why isn't this project in the main PLEAC repo?
